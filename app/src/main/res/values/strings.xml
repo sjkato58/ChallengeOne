@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ChallengeOne</string>
+
+    <string name="welcomeback">Welcome back</string>
+    <string name="logininstructions">Log in to you Student Beans account</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="button_log_in">Log in</string>
+
+    <string name="photos">Photos</string>
+
+    <string name="error_emailblank">Email was blank, please enter email</string>
+    <string name="error_emailinvalid">Email was invalid, please enter valid email</string>
+    <string name="error_pwblank">Password was blank, please enter password</string>
+
+    <string name="url_photolist"><![CDATA[https://jsonplaceholder.typicode.com/photos]]></string>
+    <string name="tag_photoitems">PhotoItems</string>
+</resources>
